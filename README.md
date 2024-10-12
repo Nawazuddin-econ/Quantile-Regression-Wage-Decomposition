@@ -1,7 +1,4 @@
 # Quantile-Regression-Wage-Decomposition
-
-Here’s the improved version with grammar corrections:
-
 This repository contains Stata codes for estimating wage differentials at different quantiles.
 It is part of my ongoing work, where I am estimating socio-religious-community-wise wage differences. However, the wage differential can be produced for other comparison groups, such as male and female, rural and urban, etc.
 
